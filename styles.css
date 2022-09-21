@@ -35,6 +35,7 @@ span {
 
 li {
     display: inline;
+    background-color: green;
 }
 
 input[type=text] {
@@ -45,4 +46,26 @@ input[type=text] {
     padding: 100px;
     /* margin: 100px; */
     background-color: brown;
+}
+
+.bla {
+    background-color: blue;
+}
+
+.gul {
+    background-color: yellow;
+}
+
+#prick-id {
+    background-color: chocolate;
+}
+
+h1 {
+    /* background-color: chartreuse; */
+    /* font-size: 80px; */
+}
+
+#martins-h1-id {
+    font-size: 80px;
+
 }
