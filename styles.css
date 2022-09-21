@@ -36,3 +36,13 @@ span {
 li {
     display: inline;
 }
+
+input[type=text] {
+    border: 2px solid red;
+  }
+
+.padding-test {
+    padding: 100px;
+    /* margin: 100px; */
+    background-color: brown;
+}
